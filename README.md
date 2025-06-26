@@ -20,7 +20,7 @@ The objective of this task is to demonstrate the use of basic `SELECT` statement
 
 - `task3_select_queries.sql`:  
   Contains all SQL queries using `WHERE`, `AND`, `OR`, `LIKE`, and `BETWEEN`.
- ## Sample Table: Products
+- Sample Table: Products
  
 ---
 
